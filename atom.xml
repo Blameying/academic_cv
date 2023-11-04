@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cv.xblame.top</id>
+    <title>Blame LIU</title>
+    <updated>2023-11-04T02:47:37.008Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cv.xblame.top"/>
+    <link rel="self" href="https://cv.xblame.top/atom.xml"/>
+    <subtitle>The road ahead is long and has no ending; yet high and low I will search with my will unbending.</subtitle>
+    <logo>https://cv.xblame.top/images/avatar.png</logo>
+    <icon>https://cv.xblame.top/favicon.ico</icon>
+    <rights>All rights reserved 2023, Blame LIU</rights>
+    <entry>
+        <title type="html"><![CDATA[About me]]></title>
+        <id>https://cv.xblame.top/post/about-me/</id>
+        <link href="https://cv.xblame.top/post/about-me/">
+        </link>
+        <updated>2022-11-14T03:55:43.000Z</updated>
+        <content type="html"><![CDATA[<p>I am a PhD student at the Thrust(Department) of Microelectronics,  The <a href="https://hkust-gz.edu.cn/">Hong Kong University of Science and Technology(Guangzhou)</a>, commencing in 2022 Fall. I am working with Prof. Jiang XU(HKUST(GZ)). I received my B.E. degree in Software Engineering from the <a href="http://en.hit.edu.cn/">Harbin Institute of Technology(Weihai Campus)</a> in 2020🎓. Then I worked in <a href="https://www.dji.com/hk">DJI company</a> as an Embedded Operating System Engineer🧑‍🏫during 2020 and 2021.</p>
+<h1 id="research-interests">👨‍💻 Research Interests</h1>
+<ol>
+<li>Program behavior analysis.</li>
+<li>Computer architecture simulation.</li>
+<li>EDA algorithms.</li>
+<li>Hardware and software co-design.</li>
+</ol>
+<h1 id="publications">Publications</h1>
+<ol>
+<li>FIONA: Photonic-Electronic Co-Simulation Framework and Transferable Prototyping for Photonic Accelerator, Yinyi Liu, Bohan Hu, <strong>Zhenguo Liu</strong>, Peiyu Chen, Linfeng Du, Jiaqi Liu, Xianbin Li, Wei Zhang, Jiang Xu, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, California, USA, October 2023</li>
+<li>Memory Workload Synthesis Using Generative AI, Chengao Shi, Fan Jiang, <strong>Zhenguo LIU</strong>, Chen Ding, Jiang Xu, The International Symposium on Memory Systems 2023 (<strong>Best Paper</strong>)</li>
+</ol>
+<h1 id="more">📖 More</h1>
+<p>I will only post my academic work on this site. If you want to know more about me and my past knowledge sharing, here is my blog: <a href="https://blog.xblame.top">https://blog.xblame.top</a>, it also contains a link to my old blog site😬.</p>
+<h1 id="contact">✉ Contact</h1>
+<p>Email: blameliu [at] hkust-gz [dot] edu [dot] cn</p>
+]]></content>
+    </entry>
+</feed>
