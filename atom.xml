@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cv.xblame.top</id>
+    <title>Blame LIU</title>
+    <updated>2026-01-30T01:01:00.760Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cv.xblame.top"/>
+    <link rel="self" href="https://cv.xblame.top/atom.xml"/>
+    <subtitle>The road ahead is long and has no ending; yet high and low I will search with my will unbending.</subtitle>
+    <logo>https://cv.xblame.top/images/avatar.png</logo>
+    <icon>https://cv.xblame.top/favicon.ico</icon>
+    <rights>All rights reserved 2026, Blame LIU</rights>
+    <entry>
+        <title type="html"><![CDATA[About me]]></title>
+        <id>https://cv.xblame.top/post/about-me/</id>
+        <link href="https://cv.xblame.top/post/about-me/">
+        </link>
+        <updated>2022-11-14T03:55:43.000Z</updated>
+        <content type="html"><![CDATA[<p>I am a PhD candidate at the Thrust(Department) of Microelectronics,  The <a href="https://hkust-gz.edu.cn/">Hong Kong University of Science and Technology(Guangzhou)</a>, commencing in 2022 Fall. I am working with <a href="https://eexu.home.ece.ust.hk/">Prof. Jiang XU (HKUST(GZ), Supervisor)</a>,  <a href="https://eeweiz.home.ece.ust.hk/">Prof. Wei ZHANG</a> and <a href="https://www.cs.rochester.edu/u/cding/">Prof. Chen DING</a> . I received my B.E. degree in Software Engineering from the <a href="http://en.hit.edu.cn/">Harbin Institute of Technology(Weihai Campus)</a> in 2020🎓. Then I worked in <a href="https://www.dji.com/hk">DJI company</a> as an Embedded Operating System Engineer🧑‍🏫during 2020 and 2021.</p>
+<h1 id="research-interests">👨‍💻 Research Interests</h1>
+<ol>
+<li>Program behavior analysis.</li>
+<li>Computer architecture simulation.</li>
+<li>EDA algorithms.</li>
+<li>Hardware and software co-design.</li>
+</ol>
+<h1 id="publications">Publications</h1>
+<ol>
+<li>FIONA: Photonic-Electronic Co-Simulation Framework and Transferable Prototyping for Photonic Accelerator, Yinyi Liu, Bohan Hu, <strong>Zhenguo Liu</strong>, Peiyu Chen, Linfeng Du, Jiaqi Liu, Xianbin Li, Wei Zhang, Jiang Xu, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, California, USA, October 2023</li>
+<li>Memory Workload Synthesis Using Generative AI, Chengao Shi, Fan Jiang, <strong>Zhenguo LIU</strong>, Chen Ding, Jiang Xu, The International Symposium on Memory Systems 2023 (<strong>Best Paper</strong>)</li>
+<li>PCC: An End-to-End Compilation Framework for Neural Networks on Photonic-Electronic Accelerators, Bohan HU, Yinyi LIU, <strong>Zhenguo LIU</strong>, Wei ZHANG, Jiang XU*, IEEE International Conference on Computer Design (ICCD), Milan, Italy, November 2024.</li>
+<li>SemanticBBV: A Semantic Signature for Cross-Program Knowledge Reuse in Microarchitecture Simulation, <strong>Zhenguo LIU</strong>, Chengao SHI, Chen DING, Jiang XU*, Asia and South Pacific Design Automation Conference (ASP-DAC), Hong Kong, 2026.</li>
+</ol>
+<h1 id="contact">✉ Contact</h1>
+<p>Email: blameliu [at] hkust-gz [dot] edu [dot] cn</p>
+]]></content>
+    </entry>
+</feed>
